@@ -93,7 +93,7 @@ namespace Spire
 
             if (showHelp)
             {
-                Console.WriteLine("Permissive policy synthesis.exe [options]");
+                Console.WriteLine("Spire.exe [options]");
                 options.WriteOptionDescriptions(Console.Out);
                 return;
             }
